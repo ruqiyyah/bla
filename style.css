@@ -1,0 +1,68 @@
+*{
+  font-family: Arial;
+}
+#one{
+  float:right;
+}
+#two{
+  clip-path: polygon(0 0, 0% 100%, 100% 51%);
+  width:600px;
+  height:500px;
+
+}
+
+form{
+  float:right;
+  right:110px;
+  width:400px;
+  padding:10px;
+  padding-top: 100px;
+
+
+}
+h4{
+  margin-left:7px;
+  margin-top: 2em;
+}
+hr{
+  border:solid #6FA599;
+  border-width:1px;
+  width:55px;
+  margin-left:0px;
+  margin-top: -1em;
+  margin-bottom: 18px;
+}
+input,text{
+  padding:5px;
+  margin-bottom: 6px;
+}
+#check{
+  margin-top: -1em;
+}
+
+.block{
+  right:100px;
+  width:245px;
+  color:black;
+  cursor:pointer;
+  padding:5px;
+  text-align:center;
+}
+
+.footer1{
+  float: right;
+  bottom: 150px;
+  left: 82%;
+  position: absolute;
+  font-size: 12px;
+}
+
+.no1{
+  text-decoration: none;
+  margin-right:10px;
+}
+
+.no2{
+  text-decoration: none;
+    margin-right:10px;
+}
